@@ -12,7 +12,7 @@ HealthAI is a smart, AI-powered healthcare assistant that enables users to:
 
 - 🔐 User login and registration
 - 💬 Interactive health chatbot
-- 🩺 Symptom-based disease prediction (ML model)
+- 🩺 Symptom-based disease prediction 
 - 🧑‍⚕️ Personalized treatment suggestions
 
 ---
