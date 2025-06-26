@@ -1,0 +1,6 @@
+streamlit
+pymysql
+ibm-watson-machine-learning
+python-dotenv
+pandas
+plotly
